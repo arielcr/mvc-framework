@@ -2,9 +2,9 @@
 
 // CONFIGURACION DE LA BASE DE DATOS 
 define("DB_HOST","localhost");
-define("DB_USER","root");
-define("DB_PASS","progra");
-define("DB_DBNAME","ariframework");
+define("DB_USER","");
+define("DB_PASS","");
+define("DB_DBNAME","");
 
 // CONFIGURACION DE LOS DIRECTORIOS
 define("DIR_CTL","app/controller/");
@@ -17,6 +17,6 @@ define("DIR_HLP","lib/helper/");
 
 // CONFIGURACION DE URL
 define("SITE_PROT","http");
-define("SITE_URL",SITE_PROT."://".$_SERVER['HTTP_HOST']."/ariframework/");
+define("SITE_URL",SITE_PROT."://".$_SERVER['HTTP_HOST']."/<carpeta>/");
 
 ?>
