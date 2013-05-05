@@ -1,8 +1,4 @@
-Framework PHP para el desarrollo de aplicaciones web usando MVC.
+Sencillo Framework MVC en PHP
 
-Incluye:
-- Login seguro
-- Roles y privilegios
-- Librerias jQuery
-- Librerias SMTP
+
 
