@@ -1,0 +1,13 @@
+{
+    "name": "arielcr/mvc-framework",
+    "description": "Simple PHP MVC Framework",
+    "keywords": ["framework","php","mvc"],
+    "homepage": "https://github.com/arielcr/mvc-framework",
+    "authors": [
+        {
+            "name": "Ariel Orozco Rivera",
+            "email": "bassplayer85@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
